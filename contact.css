@@ -272,6 +272,7 @@ body.active .wrapper .section{
     /* sidebar */
 
 #contact{
+    background : black;
     height: 95vh;
 }
 
