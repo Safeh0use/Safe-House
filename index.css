@@ -278,7 +278,7 @@ body.active .wrapper .section{
 
 #home{
     height: 95vh;
-    background: url(profile.PNG);
+    background: url(home.gif);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
