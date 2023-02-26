@@ -4,6 +4,11 @@
     scroll-behavior: smooth;
 }
 
+body {
+    background: black;
+}
+
+
 /* Header */
 header{
     position: fixed;
@@ -272,7 +277,6 @@ body.active .wrapper .section{
     /* sidebar */
 
 #contact{
-    background : black;
     height: 95vh;
 }
 
