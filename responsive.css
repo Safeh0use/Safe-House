@@ -1,0 +1,31 @@
+@media screen and (min-width:200px) and (max-width:769px){
+    header .links{
+        display: none;
+    }
+
+    footer {
+        height: 15vh;
+        flex-direction: column;
+    }
+
+    footer .links h4{
+        display: none;
+    } 
+    
+    footer .creator a{
+        width: 80px;
+    }
+
+    /* footer .creator span{
+        display: none;
+    } */
+
+    footer .copy{
+        display: none;
+    }
+
+    footer .links{
+        margin-right: 120px;
+        width: 100px;
+    }
+}
