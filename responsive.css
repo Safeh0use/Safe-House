@@ -28,8 +28,13 @@
 }
 
 @media screen and (min-width:770px) {
-    header .wrapper .section .top_navbar .hamburger{
-        display: none;
-        /* visibility: hidden; */
+    header .wrapper .section .top_navbar .hamburger,
+    header .wrapper{
+/*         display: none; */
+        visibility: hidden;
+    }
+
+    header .links{
+        margin-right: 500px;
     }
 }
