@@ -30,7 +30,7 @@
 @media screen and (min-width:770px) {
     header .wrapper .section .top_navbar .hamburger,
     header .wrapper{
-/*         display: none; */
+        display: none;
         visibility: hidden;
     }
 
