@@ -16,9 +16,6 @@
         width: 80px;
     }
 
-    /* footer .creator span{
-        display: none;
-    } */
 
     footer .copy{
         display: none;
@@ -27,5 +24,12 @@
     footer .links{
         margin-right: 120px;
         width: 100px;
+    }
+}
+
+@media screen and (min-width:770px) {
+    header .wrapper .section .top_navbar .hamburger{
+        display: none;
+        /* visibility: hidden; */
     }
 }
